@@ -1,0 +1,7 @@
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\obj\Debug\Zagniezdzenie.csprojAssemblyReference.cache
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\obj\Debug\Zagniezdzenie.csproj.CoreCompileInputs.cache
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\bin\Debug\Zagniezdzenie.exe.config
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\bin\Debug\Zagniezdzenie.exe
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\bin\Debug\Zagniezdzenie.pdb
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\obj\Debug\Zagniezdzenie.exe
+C:\Users\vppl1\source\repos\Zagniezdzenie\Zagniezdzenie\obj\Debug\Zagniezdzenie.pdb
